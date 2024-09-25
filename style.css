@@ -1,0 +1,37 @@
+body {
+    background-color: #f0f0f0; 
+    color: black; 
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+
+body.dark {
+    background-color: #222;
+    color: white; 
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button#lightThemeBtn {
+    background-color: #ffecb3;
+}
+
+button#darkThemeBtn {
+    background-color: #616161;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.8;
+}

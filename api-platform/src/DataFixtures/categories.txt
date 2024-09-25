@@ -1,0 +1,49 @@
+HTML
+CSS
+JavaScript
+TypeScript
+PHP
+Python
+Ruby
+Java
+C#
+Node.js
+React
+Angular
+Vue.js
+Svelte
+Next.js
+Nuxt.js
+Laravel
+Symfony
+Django
+Flask
+ASP.NET
+Spring Boot
+Ruby on Rails
+Express.js
+GraphQL
+REST API
+WebAssembly
+Bootstrap
+Tailwind CSS
+SASS
+LESS
+Webpack
+Gulp
+Parcel
+Vite
+jQuery
+Three.js
+D3.js
+Chart.js
+Gatsby
+Hugo
+WordPress
+Joomla
+Drupal
+Magento
+Shopify
+Contentful
+Sanity.io
+Strapi
